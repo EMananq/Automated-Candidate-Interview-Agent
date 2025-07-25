@@ -6,3 +6,4 @@ SpeechRecognition
 PyAudio
 pyttsx3
 rich
+openai
